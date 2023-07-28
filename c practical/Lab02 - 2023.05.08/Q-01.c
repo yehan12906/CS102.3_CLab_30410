@@ -2,8 +2,8 @@
 int main()
 {
     //...Display
-    printf("sahansa kodithuwakku\n");
-    printf("sujatha vidyalaya ");
+    printf("my name is yehan bimsara ethkandura\n");
+    printf("my school is Prince of wales college");
 
     return 0;
 }
